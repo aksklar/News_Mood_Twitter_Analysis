@@ -1,3 +1,5 @@
+# News Mood: Twitter Analysis
+In this project, I was tasked with creating a Python script (with the help of Python's libraries and wrappers) that would perform a sentiment analysis of BBC, CBS, CNN, Fox, and New York Times's Twitter activities.  With Tweepy and Sentiment Analyzer, I was able to gather the last one hundred tweets sent out by each news organization.  The sentiments are ranged from -1 to 1 (-1 representing negative sentiements, 0 representing neutral sentiments, and 1 representing positive sentiments.  After collecting the data, I created a bar chart and scatterplot with Seaborn and Matplotlib to reflect the sentiment analysis of the five news outlets.
 
 # News Mood
 
